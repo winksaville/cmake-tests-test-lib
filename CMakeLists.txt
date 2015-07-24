@@ -1,4 +1,5 @@
-cmake_minimum_required (VERSION 2.8)
+# Could be 2.8 or ...
+cmake_minimum_required (VERSION 3.3)
 
 project(test-lib)
 
